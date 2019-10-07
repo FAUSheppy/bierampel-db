@@ -3,5 +3,7 @@
     "genre": "Modern Drama,Depressive",
     "score": 10.0,
     "season": "1",
-    "title": "13 Reasons Why"
+    "title": "13 Reasons Why",
+    "netflix": true,
+    "description": "A number of people relive the events leading up to the suicide of a highschool girl through audiorecordings she left behind."
 }
