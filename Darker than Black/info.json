@@ -1,7 +1,11 @@
 {
     "complete": true,
     "genre": "Action,Anime,Hopefull,Depressive",
+    "genre-starter": true,
+    "tags":"gesamtkunstwerk,hard to describe,multi perspective",
     "score": 9.5,
     "season": "1 - 6",
-    "title": "Darker than Black"
+    "title": "Darker than Black",
+    "netflix": true,
+    "description": "Superpowered individuals without emotion ponder the purpose and humanity as shadow organizations and goverments try to use the for various tasks of moral ambiguity."
 }
