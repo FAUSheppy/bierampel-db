@@ -1,7 +1,10 @@
 {
     "complete": false,
-    "genre": "Crime",
+    "genre": "Psychological,Crime",
+    "genre-starter": false,
+    "tags":"irresponsible lead",
     "score": 5.0,
     "season": "1",
     "title": "Mindhunters"
+    "warning": "Season 2 presents a significant drop in quality."
 }

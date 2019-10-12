@@ -1,7 +1,11 @@
 {
     "complete": false,
-    "genre": "Superheroes",
+    "genre": "Superheroes,Detectives",
+    "genre-starter": false,
+    "tags":"emotionally unstable main,powerless powerfull",
+    "actors":"david tennat, krysten ritter",
     "score": 4.0,
     "season": "1 - 2",
-    "title": "Jessica Jones"
+    "title": "Jessica Jones",
+    "warning": "Quality steadily drops after season one."
 }

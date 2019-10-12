@@ -1,7 +1,11 @@
 {
     "complete": false,
     "genre": "SiFi,Crime,Action,Hopefull",
+    "genre-starter": true,
+    "tags":"human nature,great acting,atmospheric,philosophy,morality",
+    "actors":"Michael Emerson,Jim Caviezel,Amy Acker,Sarah Shahi,Brett Cullen",
     "score": 9.0,
-    "season": "2",
-    "title": "Person of Interest"
+    "season": "1-5",
+    "title": "Person of Interest",
+    "description": "A former CIA agent is recruited by a the inventor of a system, that is able to predict crimes, to stop them before they can happen."
 }
