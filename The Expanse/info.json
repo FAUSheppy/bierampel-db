@@ -1,7 +1,11 @@
 {
     "complete": false,
-    "genre": "SiFi",
+    "genre": "SiFi,Drama",
+    "genre-starter": true,
+    "tags": "realistic sifi,politics,space,multi perspective",
     "score": 3.0,
     "season": "1 - 2",
-    "title": "The Expanse"
+    "title": "The Expanse",
+    "description":"Various characters try to find their place in a cold war of the superpowers of a colonized solar system.",
+    "warning": "Quality of arcs varies massivly."
 }
