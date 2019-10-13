@@ -1,7 +1,11 @@
 {
     "complete": false,
-    "genre": "Dystopian,SiFi,Depressive",
+    "genre": "Dystopian,SiFi,Depressive,Anthology",
+    "genre-starter": true,
+    "netflix": true,
+    "tags": "what if,sifi",
     "score": 6.0,
-    "season": "1 - ?",
-    "title": "Black Mirror"
+    "season": "1 - 4",
+    "title": "Black Mirror",
+    "description":"Anthology series about various dystopian what-if scenarios."
 }

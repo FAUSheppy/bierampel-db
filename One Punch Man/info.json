@@ -1,7 +1,10 @@
 {
     "complete": false,
     "genre": "Superhero,Anime,Humor",
+    "genre-starter":true,
+    "tags":"absurd,parody,fighting,philosophy",
     "score": 7.5,
     "season": "1",
-    "title": "One Punch Man"
+    "title": "One Punch Man",
+    "description": "The strongest superpowered in the world is bored for a lack of actual oponents. He takes on a protige and joins the Hero Association."
 }
