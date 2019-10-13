@@ -1,7 +1,11 @@
 {
     "complete": true,
     "genre": "SiFi,Western,Action",
+    "tags": "space",
+    "actors":"Nathan Fillion,Morena Baccarin,Jewel Staite",
+    "director":"Joss Whedon",
     "score": 8.0,
     "season": "1",
-    "title": "Firefly"
+    "title": "Firefly",
+    "description": "The ragtag crew of the serenity tries to make a living in a SiFi space western."
 }
