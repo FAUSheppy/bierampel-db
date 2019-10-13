@@ -1,7 +1,11 @@
 {
     "complete": true,
     "genre": "SiFi,Action",
-    "score": 9.5,
+    "genre-starter": true,
+    "tags":"star gate,planet exploration,american",
+    "actors": "Joe Flanigan,Rachel Luttrell,David Hewlett,Jewel Staite,Amanda Tapping",
+    "score": 7.0,
     "season": "1 - 5",
     "title": "Stargate Atlantis"
+    "description":"An expedition from earth goes on a potential one-way trip to the lost city of Atlantis in a distant galaxy."
 }
