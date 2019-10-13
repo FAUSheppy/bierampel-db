@@ -1,7 +1,10 @@
 {
     "complete": true,
     "genre": "Crime,Action",
+    "actors": "Mark Valley,Jackie Earle Haley,Janet Montgomery",
+    "tags":"bodyguard,heist,gun fight,assasins",
     "score": 7.0,
     "season": "1",
     "title": "Human Target"
+    "description":"A former assasin and a former police officer now run a bodyguard buisness."
 }
