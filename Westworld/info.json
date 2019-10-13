@@ -1,6 +1,8 @@
 {
     "complete": false,
-    "genre": "SiFi,AI,Drama",
+    "genre": "SiFi,Drama",
+    "tags":"ai,western,philosophy",
+    "actors": "Anthony Hopkins,Ed Harris",
     "score": 7.5,
     "season": "1 - 2",
     "title": "Westworld",
