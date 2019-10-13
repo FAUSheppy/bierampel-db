@@ -1,7 +1,10 @@
 {
     "complete": false,
-    "genre": "Anime,Fantasy,Crime",
+    "genre": "Anime,Fantasy,Crime,Detectives",
+    "tags": "genuis main,superpowers,love story,redemption arc,mystery",
     "score": 6.0,
     "season": "1",
-    "title": "B The Beginning"
+    "netflix": true,
+    "title": "B The Beginning",
+    "description": "A retired detectives takes an intrest on a number of brutal murders by a seemingly superpowered individual."
 }
