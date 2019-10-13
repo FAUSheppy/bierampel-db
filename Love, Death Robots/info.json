@@ -1,7 +1,10 @@
 {
     "complete": false,
     "genre": "Anthology,Uncategorizable",
+    "tags":"fighting,absurd,sureal,dystopian,philosophy",
     "score": 6.5,
     "season": "1",
-    "title": "Love, Death Robots"
+    "title": "Love, Death Robots",
+    "netflix":true,
+    "description":"Anthology series about various SiFi and Fantasy topics."
 }
