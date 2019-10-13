@@ -1,9 +1,12 @@
 {
     "complete": false,
-    "genre": "Modern Drama,Depressive",
+    "genre": "Drama,Depressive",
+    "genre-starter": true,
+    "tags": "depressive,suicide,modern,chemistry",
     "score": 10.0,
     "season": "1",
     "title": "13 Reasons Why",
     "netflix": true,
     "description": "A number of people relive the events leading up to the suicide of a highschool girl through audiorecordings she left behind."
+    "warning": "Only the first season is worth watching."
 }
