@@ -2,8 +2,10 @@
     "complete": false,
     "genre": "Anime,Action,Fighting",
     "genre-starter": false,
-    "tags": "stereotypical,low-iq",
+    "tags": "stereotypical,low-iq,martial arts,love story",
     "score": 3.5,
     "season": "1-2",
-    "title": "SWORDGAI The Animation"
+    "title": "SWORDGAI The Animation",
+    "description" : "Weapons come to life and posess humans, a young boy with a connection to demonic sword tries to reconcile with his fate.",
+    "netflix":true
 }
