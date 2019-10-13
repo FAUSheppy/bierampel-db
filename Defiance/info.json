@@ -1,7 +1,10 @@
 {
     "complete": false,
     "genre": "Low-Budget,SiFi,Action,Drama",
+    "tags":"western,family,politics,post apocalyptic",
     "score": 7.0,
-    "season": "1 - 2",
-    "title": "Defiance"
+    "season": "1 - 4",
+    "title": "Defiance",
+    "netflix": false,
+    "description":"After an alien invasion near mutual destruction an uneasy peace exist between aliens and humans in a postapocalyptic world."
 }
