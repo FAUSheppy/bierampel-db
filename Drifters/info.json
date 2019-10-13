@@ -1,7 +1,11 @@
 {
     "complete": false,
     "genre": "Anime,Action",
+    "tags":"brutal,constructive nihilism,absurd",
     "score": 7.0,
     "season": "1",
-    "title": "Drifters"
+    "title": "Drifters",
+    "netflix": true,
+    "description": "Soliders and personalities throughout history are recruited at the time of their death by godlike entities and sent to a war torn medieval fantasy world."
+
 }
