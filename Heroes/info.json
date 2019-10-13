@@ -1,7 +1,11 @@
 {
     "complete": true,
     "genre": "Superheroes,Hopefull",
+    "actors":"Jack Coleman",
+    "tags":"superpowers,fate,redemption,multi perspective,gesamtkunstwerk",
+    "netflixt":true,
     "score": 8.0,
     "season": "1 - 4",
-    "title": "Heroes"
+    "title": "Heroes",
+    "description": "Various superpowered individuals seem to be drawn together by fate."
 }
