@@ -1,7 +1,11 @@
 {
     "complete": false,
-    "genre": "Fantasy",
+    "genre": "Fantasy,Politics",
+    "tags":"nudity,sexual,epos,midieval",
     "score": 7.0,
-    "season": "1 - 5",
-    "title": "Game of Thrones"
+    "season": "1 - 6",
+    "title": "Game of Thrones",
+    "netflix":true,
+    "description":"Various nobel families and individuals plot to be ruler of a fantasy kingdom.",
+    "warning": "Quality massively drops in later seasons leading up to an unsatisfying end."
 }
