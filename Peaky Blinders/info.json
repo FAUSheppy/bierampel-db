@@ -1,7 +1,10 @@
 {
     "complete": false,
     "genre": "Crime,Gangster",
-    "score": 2.0,
+    "tags": "brutal, industrial era",
+    "score": 4.0,
     "season": "1",
-    "title": "Peaky Blinders"
+    "title": "Peaky Blinders",
+    "description": "Members of the 'Peaky Blinders' run their ilegal buisnesses in early 19th century London.",
+    "netflix": true
 }
