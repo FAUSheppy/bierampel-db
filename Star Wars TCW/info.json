@@ -1,6 +1,6 @@
 {
     "complete": true,
-    "genre": "Animation,SiFi,Children",
+    "genre": ["Animation","SiFi","Children"],
     "genre-starter":true,
     "tags":"likable characters,space,star wars,war",
     "score": 7.0,

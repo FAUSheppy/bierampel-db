@@ -1,6 +1,6 @@
 {
     "complete": true,
-    "genre": "Animation,Children,Mystery",
+    "genre": ["Animation","Children","Mystery"],
     "genre-starter":true,
     "tags":"mystery,high-iq,family",
     "score": 6.5,

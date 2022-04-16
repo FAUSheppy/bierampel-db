@@ -1,6 +1,6 @@
 {
     "complete": false,
-    "genre": "Anime,Fantasy,Action,Hopeful",
+    "genre": ["Fantasy","Action","Hopeful"],
     "genre-starter": false,
     "tags":"friendship,makes you feel lonely,anti-hero",
     "score": 7.0,

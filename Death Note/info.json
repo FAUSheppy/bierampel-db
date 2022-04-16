@@ -1,6 +1,6 @@
 {
     "complete": true,
-    "genre": "Anime,Crime,Detectives",
+    "genre": ["Anime","Crime","Detectives"],
     "score": 2.5,
     "season": "1 - 4",
     "title": "Death Note",
